@@ -4,7 +4,7 @@
 <p>Spy your target with keylogger!</p>
 
 # Preview
-<img src="https://uploadpie.com/pNlD6T">
+<img src="https://uploadpie.com/FgqgoW">
 
 # Oprating System Tested
 <div class="list">
